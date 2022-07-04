@@ -12,6 +12,11 @@ cd destini-game
 fluttter run
 ```
 
+## Quizzler
+
+<img width="35%" destini src="screenshots/quizzler.png">
+
+
 ## Destini Game
 
 <img width="35%" destini src="screenshots/destini-game.png">
