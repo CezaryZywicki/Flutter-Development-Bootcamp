@@ -24,3 +24,7 @@ fluttter run
 ## BMI-Calculator
 
 <img width="35%" destini src="screenshots/bmi-calculator.png">
+
+## Clima App
+
+<img width="35%" destini src="screenshots/clima-app.png">
