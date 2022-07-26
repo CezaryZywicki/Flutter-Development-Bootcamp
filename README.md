@@ -20,3 +20,7 @@ fluttter run
 ## Destini Game
 
 <img width="35%" destini src="screenshots/destini-game.png">
+
+## BMI-Calculator
+
+<img width="35%" destini src="screenshots/bmi-calculator.png">
